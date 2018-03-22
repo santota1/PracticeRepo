@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mavenPracticeTest" duration-ms="16" started-at="2018-03-22T15:41:09Z" finished-at="2018-03-22T15:41:09Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="16" started-at="2018-03-22T15:41:09Z" finished-at="2018-03-22T15:41:09Z">
+      <class name="mavenPracticeTest">
+        <test-method status="PASS" signature="add()[pri:0, instance:mavenPracticeTest@246ae04d]" name="add" duration-ms="5" started-at="2018-03-22T11:41:09Z" finished-at="2018-03-22T11:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:mavenPracticeTest@246ae04d]" name="mul" duration-ms="0" started-at="2018-03-22T11:41:09Z" finished-at="2018-03-22T11:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="division()[pri:0, instance:mavenPracticeTest@246ae04d]" name="division" duration-ms="0" started-at="2018-03-22T11:41:09Z" finished-at="2018-03-22T11:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:mavenPracticeTest@246ae04d]" name="sub" duration-ms="0" started-at="2018-03-22T11:41:09Z" finished-at="2018-03-22T11:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- mavenPracticeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- mavenPracticeTest -->
+</testng-results>
